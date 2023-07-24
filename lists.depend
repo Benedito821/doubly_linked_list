@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1557612795 source:c:\users\bened\onedrive\documentos\projectos codebloks\lists\main.c
+	"main.h"
+
+1557612795 source:c:\users\bened\onedrive\documentos\projectos codebloks\lists\lists.c
+	<stdio.h>
+	<stdlib.h>
+	"lists.h"
+
+1557170785 c:\users\bened\onedrive\documentos\projectos codebloks\lists\lists.h
+
+1557170785 c:\users\bened\onedrive\documentos\projectos codebloks\lists\main.h
+	<stdio.h>
+	<stdlib.h>
+	"lists.h"
+	"get_commands.h"
+	"read_strings.h"
+
+1557131320 source:c:\users\bened\onedrive\documentos\projectos codebloks\lists\get_commands.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557056114 source:c:\users\bened\onedrive\documentos\projectos codebloks\lists\read_strings.c
+	<stdio.h>
+	<stdlib.h>
+	"read_strings.h"
+	<string.h>
+
+1555517112 c:\users\bened\onedrive\documentos\projectos codebloks\lists\read_strings.h
+
+1555982314 c:\users\bened\onedrive\documentos\projectos codebloks\lists\get_commands.h
+
